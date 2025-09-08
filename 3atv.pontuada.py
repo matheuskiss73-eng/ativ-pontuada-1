@@ -11,4 +11,4 @@ else:
     c = vA * vB
     print(f"{vA}*{vB}={c}")
 
-
+print("fim")

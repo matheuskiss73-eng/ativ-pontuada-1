@@ -23,3 +23,4 @@ else:
 
 print("Resultado:", resultado)
 
+print("FIM")
